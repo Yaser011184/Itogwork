@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.AssemblyInfo.cs
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Itogwork\Code C#\bin\Debug\net6.0\Code C#.exe
+C:\Users\admin\Desktop\Itogwork\Code C#\bin\Debug\net6.0\Code C#.deps.json
+C:\Users\admin\Desktop\Itogwork\Code C#\bin\Debug\net6.0\Code C#.runtimeconfig.json
+C:\Users\admin\Desktop\Itogwork\Code C#\bin\Debug\net6.0\Code C#.dll
+C:\Users\admin\Desktop\Itogwork\Code C#\bin\Debug\net6.0\Code C#.pdb
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.dll
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\refint\Code C#.dll
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.pdb
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\Code C#.genruntimeconfig.cache
+C:\Users\admin\Desktop\Itogwork\Code C#\obj\Debug\net6.0\ref\Code C#.dll
